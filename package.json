@@ -1,6 +1,6 @@
 {
   "name": "mathish",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Math Problem made simple",
   "main": "./dist/index.js",
   "module": "./dist/index.mjs",
@@ -26,5 +26,9 @@
     "ts-node": "^10.9.1",
     "tsup": "^8.0.1",
     "typescript": "^5.3.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Volkstech-Team/mathish.git"
   }
 }
